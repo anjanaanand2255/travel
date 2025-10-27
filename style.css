@@ -23,13 +23,12 @@ header nav a {
 header nav a:hover {
   color: #ffdd00;
 }
-   
+
 /* Hero */
 .hero {
-  background: url('https://i.ibb.co/mrrKVZFq/INTRO.jpg') no-repeat center center/cover; /* background */
-  background-size: cover;
+  background: url('https://i.ibb.co/mrrKVZFq/INTRO.jpg') no-repeat center center/cover; /* background*/
+  background-size: cover; 
 }
-/* Section */
 section {
   padding: 50px; /* Change to responsive later */
   min-height: 600px; /* Delete or replace with min-height in vh */
@@ -158,6 +157,7 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
 
 
 
