@@ -26,9 +26,9 @@ header nav a:hover {
    
 /* Hero */
 .hero {
-  background: url('images/INTRO.jpeg') no-repeat center center/cover;
-  background-size: cover;
+  background: url('https://i.ibb.co/mrrKVZFq/INTRO.jpg') no-repeat center center/cover; /* background*/
 }
+  background-size: cover; 
 section {
   padding: 50px; /* Change to responsive later */
   min-height: 600px; /* Delete or replace with min-height in vh */
@@ -44,7 +44,7 @@ section {
 }
 
 .hero button:hover {
-  background: #ff80;
+  background: #006FFF;
 }
 
 
@@ -158,3 +158,4 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
